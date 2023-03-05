@@ -1,2 +1,1 @@
-#hacktj10.0
-# hacktj10.0
+Model to analyze and predict stocks
